@@ -1,3 +1,3 @@
 print("wellcome")
 print("hi CB")
-ok
+print("ok")
